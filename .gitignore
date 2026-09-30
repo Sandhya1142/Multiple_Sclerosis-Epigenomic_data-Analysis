@@ -1,0 +1,12 @@
+.RProj.user
+.Rhistory
+.RDataTmp
+.RDataTmp*
+Data/
+Results/CheckBMIQ-*.pdf
+Results/Type1fit-*.pdf
+Results/Type2fit-*.pdf
+Results/CheckBMIQ-*.pdf
+Results/Type1fit-*.pdf
+Results/Type2fit-*.pdf
+Results/Annotation.csv
