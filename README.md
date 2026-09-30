@@ -1,6 +1,6 @@
 **1. OVERVIEW**
 
-An R workflow for analysing DNA methylation data from GEO dataset GSE224455 (Illumina Infinium EPIC array). The pipeline compares brain lesion tissue against normal-appearing white matter (NAWM) and identifies differentially methylated positions (DMPs) using the ChAMP package and limma  
+An R workflow for analysing DNA methylation data from GEO dataset GSE224455 (Illumina Infinium EPIC array). The pipeline compares brain lesion tissue against normal-appearing white matter (NAWM) and identifies differentially methylated positions (DMPs) using the ChAMP package and limma package
 
 **2. RESEARCH QUESTION ADDRESSED**
 
